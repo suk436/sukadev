@@ -1,0 +1,46 @@
+ var sukadev="ram";
+console.log(sukadev);
+console.log(sukadev);
+var ram="SUKADEV YADAV HE IS GOOD Man";
+console.log(ram);
+console .log(ram);
+
+console.log(ram);
+var jitu="my best friend";
+console.log (jitu);
+var country=("napel");
+console.log(country);
+var hill="kanchan janga";
+console.log(hill);
+var nepalS=" Koshi,Bagmati,Lumbani,karnali,msdesh,gandaki,sudurpaschim";
+console.log(nepalS);
+var ladka="jit bahadur yadav";
+console.log(ladka);
+var mywif=("Narvada yadav");
+console.log(mywif);
+var myfather="Ram naresh yadav";
+console.log(myfather);
+var myfrand="roshan roy";
+var myroomP="jitendar pandit";
+console.log(myfrand);
+console.log(myroomP);
+var river="karnali,koshi,gandaki";
+console.log(river);
+var nepal="lumbani";
+console.log(nepal);
+var nepal="gandaki";
+console.log(nepal);
+var dev="sukadev yadav";
+console.log(dev);
+var dev="jit kumar";
+console.log(dev);
+var dev="Abhijit";
+console.log(dev);
+var dev="narvada";
+console .log(dev);
+var jit="my sun";
+console.log(jit);
+var jit="ram kumar";
+console.log(jit);
+
+
